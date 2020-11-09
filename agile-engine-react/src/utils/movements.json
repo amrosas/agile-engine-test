@@ -1,0 +1,24 @@
+[{
+  "id": "1234",
+  "type": "debit",
+  "amount": 100,
+  "effectiveDate": "Sun Nov 08 2020 19:46:00 GMT-0300"
+},
+{
+  "id": "2",
+  "type": "credit",
+  "amount": 200,
+  "effectiveDate": "Sun Nov 08 2020 19:46:00 GMT-0300"
+},
+{
+  "id": "3",
+  "type": "debit",
+  "amount": -100,
+  "effectiveDate": "Sun Nov 08 2020 19:46:00 GMT-0300"
+},
+{
+  "id": "5",
+  "type": "credit",
+  "amount": 100,
+  "effectiveDate": "Sun Nov 08 2020 19:46:00 GMT-0300"
+}]

@@ -1,0 +1,19 @@
+{
+  "name": "agile-engine-node",
+  "version": "1.0.0",
+  "description": "REST API for Technical Task",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "author": "Agustin Rosas <agustinmiguelrosas@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "body-parser": "1.15.2",
+    "cors": "^2.8.5",
+    "express": "4.14.0",
+    "nodemon": "^2.0.6",
+    "uuid": "^8.3.1"
+  },
+  "devDependencies": {}
+}
